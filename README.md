@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Jacob Sanchez Bejarano, a student at Brigham Young University-Idaho interested in computer science, data science, web and mobile development, machine learning, artificial intelligence, finance, and bioinformatics. Welcome to my GitHub profile!
+I'm Jacob Sanchez Bejarano, a student at Brigham Young University-Idaho interested in computer science, data science, web and mobile development, cybersecurity, machine learning, artificial intelligence, finance, and bioinformatics. Welcome to my GitHub profile!
 
 ## About Me
 
